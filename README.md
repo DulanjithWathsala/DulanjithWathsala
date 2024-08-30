@@ -94,8 +94,14 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulanjithwathsala&show_icons=true&locale=en&layout=compact" alt="dulanjithwathsala" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulanjithwathsala&show_icons=true&locale=en&layout=compact" alt="dulanjithwathsala" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulanjithwathsala&show_icons=true&locale=en" alt="dulanjithwathsala" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dulanjithwathsala&show_icons=true&locale=en" alt="dulanjithwathsala" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjithwathsala&" alt="dulanjithwathsala" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjithwathsala&" alt="dulanjithwathsala" />
+</p>
