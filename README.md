@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=DulanjithWathsala&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on:  Full-stack development projects.<br>👯 I’m looking to collaborate on: Web apps and open-source projects.<br>🤝 I’m looking for help with: Expanding my tech skills.<br>🌱 I’m currently learning: New coding techniques and best practices<br>💬 Ask me about: Coding, gaming, or anime!<br>⚡ Fun fact: I love combining creativity from anime and gaming into my coding.
+🔭 I’m currently working on:  Full-stack development projects<br>👯 I’m looking to collaborate on: Web apps and open-source projects<br>🤝 I’m looking for help with: Expanding my tech skills<br>🌱 I’m currently learning: New coding techniques and best practices<br>💬 Ask me about: Coding, gaming, or anime!<br>⚡ Fun fact: I love combining creativity from anime and gaming into my coding
 
 
 ## 🌐 Socials:
